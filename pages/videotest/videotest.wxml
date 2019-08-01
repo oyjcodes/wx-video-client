@@ -1,0 +1,22 @@
+<video src="http://192.168.0.157:8081/190725GT2B5SN5D4/video/f87ea5e4635b12e2f45ab1103d07afbd.mp4"
+muted="{{false}}"
+initial-time="1"
+duration="8"
+controls="{{true}}"
+danmu-list="{{danmuList}}"
+enable-danmu="{{true}}"
+danmu-btn="{{true}}"
+autoplay="{{true}}"
+loop="{{true}}"
+page-gesture="{{true}}"
+direction="90"
+show-progress="{{true}}"
+show-fullscreen-btn="{{true}}"
+show-play-btn="{{true}}"
+show-center-play-btn="{{true}}"
+enable-progress-gesture="{{true}}"
+
+bindplay="bindplay"
+bindpause="bindpause"
+></video>
+<!-- poster="http://192.168.1.2:8081/180425CFA4RB6T0H/face/wxa2049f5aead89372.o6zAJs5sm5bPFcTzKXp_5wXsWuso.W0eLNdT6MIvD3ba01f74ba779caa63d038c3c8200b4a.jpg" -->

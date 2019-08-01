@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/videotest/videotest",
+    "pages/mine/mine",
+    "pages/index/index",
+    "pages/videoinfo/videoinfo",
+    "pages/userLogin/login",
+    "pages/report/report",
+    "pages/userRegist/regist",
+    "pages/chooseBgm/chooseBgm",
+    "pages/searchVideo/searchVideo"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "小慕短视频",
+    "navigationBarTextStyle": "black"
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
+}
